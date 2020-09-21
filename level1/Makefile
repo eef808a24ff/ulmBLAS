@@ -1,4 +1,4 @@
-CC       = gcc-4.8
+CC       = gcc
 CFLAGS  += -Wall -I.. -O3
 
 SOURCE_FILES     = $(wildcard *.c)
